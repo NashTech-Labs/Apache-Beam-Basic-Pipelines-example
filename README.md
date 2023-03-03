@@ -1,8 +1,5 @@
 ## README.md
-Clone the Repo::
-````
-https://github.com/Shashikant-15/Apache-Beam-Basic-Pipelines.git
-````
+
 > Problem 1 -
 Given CSV file of car ad data(find attached car_ad.csv file)
 

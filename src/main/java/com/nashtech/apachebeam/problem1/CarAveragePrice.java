@@ -1,4 +1,4 @@
-package com.knoldus.beam.problem1;
+package com.nashtech.apachebeam.problem1;
 
 
 import org.apache.beam.sdk.Pipeline;
